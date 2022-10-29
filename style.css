@@ -1,0 +1,38 @@
+body{
+font-family: 'Island Moments', cursive;
+background: rgb(245, 141, 104);
+}
+
+.header_div{
+    background: white;
+    color: rgb(245, 136, 97);
+}
+
+.header_div p{
+font-family: 'Island Moments', cursive;
+color: rgb(245, 141, 104);
+letter-spacing: 2px;
+font-size: 16px;
+font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Island Moments', cursive;
+    margin-top: 30px;
+    background: white;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(245, 141, 104);
+    bottom: 0px;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3px;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
